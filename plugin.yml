@@ -1,0 +1,32 @@
+name: PowerMoedas
+main: me.mrpowergamerbr.powermoedas.Main
+version: 1.3.2
+softdepends: Skript
+commands:
+   coins:
+      description: Comando de Moedas
+      usage: /<command>
+      aliases: [moedas, cash, coin]
+   opsetcoins:
+      description: Setar Moedas de um Player
+      usage: /<command>
+      aliases: [opsetmoedas, opsetcoin, opsetcash]
+   opdarcoins:
+      description: Dar Moedas para um Player
+      usage: /<command>
+      aliases: [opdarmoedas, opdarcoin, opdarcash]
+   optirarcoins:
+      description: Tirar Moedas para um Player
+      usage: /<command>
+      aliases: [optirarmoedas, optirarcoin, optirarcash]
+   darcoins:
+      description: Retira Moedas para dar para um Player
+      usage: /<command>
+      aliases: [darmoedas, darcoin, darcash]
+   powermoedas:
+      description: Criado por MrPowerGamerBR
+      usage: /<command>
+   lojagui:
+      description: Loja de Moedas
+      usage: /<command>
+      aliases: [lojamoedas, lojacash, lojacoin, lojacoins]
