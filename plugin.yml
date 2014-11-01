@@ -1,6 +1,6 @@
 name: PowerMoedas
 main: me.mrpowergamerbr.powermoedas.Main
-version: 1.3.2
+version: 1.3.3
 softdepends: Skript
 commands:
    coins:
